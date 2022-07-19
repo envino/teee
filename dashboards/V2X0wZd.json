@@ -1,0 +1,34 @@
+{
+  "pages": [
+    {
+      "id": "Eaeg0JO",
+      "grid": {
+        "tiles": []
+      },
+      "showTitle": false
+    }
+  ],
+  "owner": "nate.kim@dataiku.com",
+  "listed": true,
+  "name": "gitmultipleuser\u0027s default dashboard",
+  "showGrid": true,
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "nate.kim@dataiku.com"
+    },
+    "lastModifiedOn": 1658265297734
+  },
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "nate.kim@dataiku.com"
+    },
+    "lastModifiedOn": 1658265297734
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}
